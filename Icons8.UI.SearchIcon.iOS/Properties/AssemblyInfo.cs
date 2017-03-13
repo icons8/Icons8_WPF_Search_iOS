@@ -12,7 +12,7 @@ using System.Windows;
 [assembly: AssemblyCopyright(I8_Assembly.Copyright)]
 [assembly: AssemblyTrademark(I8_Assembly.Trademark)]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyVersion("0.1.0.0")]
-[assembly: AssemblyFileVersion("0.1.1.0")]
+    [assembly: AssemblyVersion("0.1.2.0")]
+[assembly: AssemblyFileVersion("0.1.2.0")]
 
 [assembly: ComVisible(false)]

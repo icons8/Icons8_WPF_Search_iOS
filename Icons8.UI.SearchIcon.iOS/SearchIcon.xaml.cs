@@ -15,9 +15,9 @@ using System.Windows.Shapes;
 
 namespace Icons8.UI.iOS
 {
-    public partial class SearchIconControl : MonochromeIconControl
+    public partial class SearchIcon : MonochromeIconControl
     {
-        public SearchIconControl()
+        public SearchIcon()
         {
             InitializeComponent();
         }
